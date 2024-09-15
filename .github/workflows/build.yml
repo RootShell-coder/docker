@@ -13,7 +13,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  NAME_TAG: ghcr.io/rootshell-coder/docker:0.16.2-buildx
+  NAME_TAG: ghcr.io/rootshell-coder/docker:0.17.1-buildx
   LATEST_TAG: ghcr.io/rootshell-coder/docker:buildx
 
 jobs:
