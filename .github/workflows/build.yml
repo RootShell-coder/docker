@@ -1,12 +1,12 @@
 name: docker_duildx
 on:
   push:
-    branches: ["master"]
+    branches: ["0.16.2"]
     paths:
       - "docker/**"
       - ".github/workflows/**"
   pull_request:
-    branches: ["master"]
+    branches: ["0.16.2"]
     paths:
       - "docker/**"
       - ".github/workflows/**"
